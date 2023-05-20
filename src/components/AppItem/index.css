@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.app {
+  list-style: none;
+}
+.app-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  border-radius: 15px;
+  padding: 15px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.app-img {
+  height: 130px;
+}
+.app-name {
+  font-size: 1.4rem;
+}
